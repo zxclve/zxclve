@@ -76,8 +76,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zxclve&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zxclve&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zxclve&show_icons=true&theme=radical" width="49%" height=200 />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zxclve&layout=compact&theme=radical" width="49%" height=200 />
 </div>
 
 ---
